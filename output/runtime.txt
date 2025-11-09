@@ -1,0 +1,24 @@
+==================================================
+DIMENSION REDUCTION VISUALIZER - RUNTIME LOG
+==================================================
+Generated: 2025-11-09 13:10:40
+
+Word2Vec Vectorization
+--------------------------------------------------
+Time: 0.2066 seconds
+Time: 0.0034 minutes
+
+PCA (NumPy)
+--------------------------------------------------
+Time: 0.0127 seconds
+Time: 0.0002 minutes
+
+PCA (Scikit-learn)
+--------------------------------------------------
+Time: 0.0107 seconds
+Time: 0.0002 minutes
+
+t-SNE
+--------------------------------------------------
+Time: 0.9568 seconds
+Time: 0.0159 minutes
